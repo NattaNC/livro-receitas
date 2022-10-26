@@ -1,17 +1,17 @@
 # Strogonoff de Frango 🐔
 
 ## ingredientes
-• 3 peitos de frango cortados em cubos
-• 1 dente de alho picado
-• sal e pimenta a gosto
-• 1 cebola picada
-• 2 colheres (sopa) de maionese
-• 1 colher de manteiga
-• 1/2 copo de ketchup
-• 1/3 copo de mostarda
-• 1 copo de cogumelos
-• 1 copo de creme de leite
-• batata palha a gosto
+- 3 peitos de frango cortados em cubos
+- 1 dente de alho picado
+- sal e pimenta a gosto
+- 1 cebola picada
+- 2 colheres (sopa) de maionese
+- 1 colher de manteiga
+- 1/2 copo de ketchup
+- 1/3 copo de mostarda
+- 1 copo de cogumelos
+- 1 copo de creme de leite
+- batata palha a gosto
 
 ## MODO DE PREPARO
 1 - Corte o peito de frango em cubos de 2,5 cm, transfira para uma tigela e mantenha em temperatura ambiente enquanto prepara o restante dos ingredientes – se o frango estiver gelado na hora de ir para a panela, vai cozinhar em vez de dourar.
